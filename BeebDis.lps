@@ -8,8 +8,7 @@
       <Unit0>
         <Filename Value="BeebDis.dpr"/>
         <IsPartOfProject Value="True"/>
-        <IsVisibleTab Value="True"/>
-        <TopLine Value="60"/>
+        <TopLine Value="338"/>
         <CursorPos X="10" Y="79"/>
         <UsageCount Value="423"/>
         <Loaded Value="True"/>
@@ -29,7 +28,7 @@
         <Filename Value="SymbolListUnit.pas"/>
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="10"/>
-        <TopLine Value="267"/>
+        <TopLine Value="268"/>
         <CursorPos X="9" Y="297"/>
         <UsageCount Value="423"/>
         <Loaded Value="True"/>
@@ -86,7 +85,6 @@
         <Filename Value="Disassembler6809Unit.pas"/>
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="2"/>
-        <TopLine Value="637"/>
         <CursorPos X="12" Y="667"/>
         <UsageCount Value="203"/>
         <Loaded Value="True"/>
@@ -115,7 +113,7 @@
         <IsPartOfProject Value="True"/>
         <UnitName Value="DisassemblersUnit"/>
         <EditorIndex Value="4"/>
-        <TopLine Value="124"/>
+        <TopLine Value="121"/>
         <CursorPos Y="148"/>
         <UsageCount Value="191"/>
         <Loaded Value="True"/>
@@ -148,6 +146,7 @@
       </Unit14>
       <Unit15>
         <Filename Value="fpexprpars.pp"/>
+        <IsVisibleTab Value="True"/>
         <EditorIndex Value="11"/>
         <TopLine Value="1442"/>
         <CursorPos X="73" Y="1450"/>
@@ -170,7 +169,7 @@
         <UsageCount Value="1"/>
       </Unit17>
     </Units>
-    <JumpHistory Count="30" HistoryIndex="29">
+    <JumpHistory Count="29" HistoryIndex="28">
       <Position1>
         <Filename Value="SymbolListUnit.pas"/>
         <Caret Line="70" Column="28" TopLine="53"/>
@@ -269,28 +268,24 @@
       </Position24>
       <Position25>
         <Filename Value="BeebDis.dpr"/>
-        <Caret TopLine="58"/>
+        <Caret Line="2" Column="24"/>
       </Position25>
       <Position26>
         <Filename Value="BeebDis.dpr"/>
-        <Caret Line="2" Column="24"/>
+        <Caret Line="79" Column="77" TopLine="48"/>
       </Position26>
       <Position27>
         <Filename Value="BeebDis.dpr"/>
-        <Caret Line="79" Column="77" TopLine="48"/>
+        <Caret Line="85" Column="12" TopLine="54"/>
       </Position27>
       <Position28>
         <Filename Value="BeebDis.dpr"/>
-        <Caret Line="85" Column="12" TopLine="54"/>
+        <Caret Line="371" Column="16" TopLine="340"/>
       </Position28>
       <Position29>
         <Filename Value="BeebDis.dpr"/>
-        <Caret Line="371" Column="16" TopLine="340"/>
-      </Position29>
-      <Position30>
-        <Filename Value="BeebDis.dpr"/>
         <Caret Line="376" Column="31" TopLine="341"/>
-      </Position30>
+      </Position29>
     </JumpHistory>
   </ProjectSession>
   <Debugging>
