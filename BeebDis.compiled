@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CONFIG>
-  <Compiler Value="/usr/local/bin/fpc" Date="1486907966"/>
-  <Params Value=" -MDelphi -Scghi -gw2 -godwarfsets -gl -l -vewnhibq -Fu/Users/steveinglis/Documents/BeebDis/ BeebDis.dpr"/>
+  <Compiler Value="/usr/local/bin/fpc" Date="1590953228"/>
+  <Params Value=" -MDelphi -Scghi -gw2 -godwarfsets -gl -l -vewnhibq -Fu/Users/steveinglis/Documents/BeebDis/ -o/Users/steveinglis/Documents/BeebDis/BeebDis BeebDis.dpr"/>
 </CONFIG>
