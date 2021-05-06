@@ -351,7 +351,7 @@ BEGIN;
       IF (DataType=tyDataWordRTSEntry) THEN
         LookupAddr:=FMemory.ReadWord+1
       ELSE
-        LookupAddr:=FMemory.ReadWord;
+        LookupAddr:=FMemory.ReadWord
 
       LookupSymbol:=FSymbols.GetSymbol(LookupAddr,FALSE);
 

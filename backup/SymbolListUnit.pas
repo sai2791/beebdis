@@ -194,6 +194,9 @@ FUNCTION TSymbolList.IndexOfAddress(AAddress	: DWORD) : INTEGER;
 VAR	ItemNo	: INTEGER;
 
 BEGIN;
+  IF (AAddress=$c71f) THEN
+    Writeln('found');
+
   ItemNo:=Count-1;
 
   WHILE ((ItemNo>-1) AND (AAddress<>TSymbol(Items[ItemNo]).Address)) DO

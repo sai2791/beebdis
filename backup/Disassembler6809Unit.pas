@@ -643,6 +643,9 @@ BEGIN;
   {Get the current PC, we need this later}
   Location:=Memory.PC;
 
+  if(Location=$c1c3) then
+    writeln('break!');
+
   {Fetch the opcode, and look it up}
   OpCode:=Memory.ReadByte(IsDone);
   OpPost:=0;
